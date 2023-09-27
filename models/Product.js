@@ -24,13 +24,14 @@ Product.init(
       type:DataTypes.DECIMAL(10,2),
       allowNull: false,
       primaryKey: true,
-      autoIncrement: true,
+      validate: {
+        isDecimal: true,
+      },
     },
     stock: {
       type:DataTypes.INTEGER,
       allowNull: false,
-      defaultValue: 15,
-      primaryKey: true,
+      defaultValue: 10,
       validate: {
         isNumeric: true,
       },
