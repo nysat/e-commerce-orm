@@ -1,5 +1,5 @@
-const express = require('express');
 const sequelize = require('./config/connection')
+const express = require('express');
 
 const routes = require('./routes');
 
