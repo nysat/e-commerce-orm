@@ -1,5 +1,5 @@
 # E-commerce-orm
-![Github license](https://img.shields.io/badge/license--blue.svg)
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
  This project was built to test my knowledge on Object Relational Mapping  and to have a feel for what goes on in the back end of e-commerce websites or internet retail.
 ##### Deployed Application
@@ -21,7 +21,7 @@ How to use this application:  In your terminal, run the commans node server.js I
 ## Contributing
 n/a
 ## License
-This project is licensed under the  license. ![Github license](https://img.shields.io/badge/license--blue.svg)
+This project is licensed under the  license. ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Test
 n/a
 ## Questions 
